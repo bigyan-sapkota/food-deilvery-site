@@ -214,6 +214,13 @@ footer{
     /* font-weight: 100; */
 }
 /* Utility classes */
+
+/* .hr{
+    border: 1px solid red;
+    height: 12px;
+    width: 100vw;
+    color: grey;
+} */
 .h-primary{
     font-family: 'Open Sans', sans-serif;
     font-size: 3.8rem;
