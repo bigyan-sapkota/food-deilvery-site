@@ -10,6 +10,10 @@ font-family: 'Open Sans', sans-serif; */
     padding: 0;
 }
 
+html{
+    scroll-behavior: smooth;
+}
+
 /* CSS Variables */
 :root{
     --navbar-height: 59px;
