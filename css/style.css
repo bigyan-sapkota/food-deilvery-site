@@ -76,7 +76,7 @@ font-family: 'Open Sans', sans-serif; */
     display: flex;
     flex-direction: column;
     padding: 3px 200px;
-    height: 433px;
+    height: 530px;
     justify-content: center;
     align-items: center;
 }
@@ -151,7 +151,7 @@ font-family: 'Open Sans', sans-serif; */
     width: 100%;
     height: 100%;
     z-index: -1;
-    opacity: 0.75;
+    opacity: 0.85;
 }
 
 #clients{
@@ -165,7 +165,7 @@ font-family: 'Open Sans', sans-serif; */
 }
 
 .client-item{
-    padding: 34px;
+    padding: 15px;
 }
 /* Utility classes */
 .h-primary{
